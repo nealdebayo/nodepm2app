@@ -1,0 +1,15 @@
+{
+  "name": "nodepm2app",
+  "version": "0.0.1",
+  "description": "build and deploy node app with pm2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Tunde Abolaji",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
